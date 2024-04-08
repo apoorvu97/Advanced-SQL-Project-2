@@ -1,0 +1,36 @@
+MySQL for Ecommerce & Web Analytics
+1 : Analysis for channel portfolio management 
+    -- Analyzing channel portfolios
+    -- Comparing channel characteristics
+    -- Cross-channel bid optimization
+    -- Analyzing channel portfolio trends
+    -- Analyzing direct, brand-driven traffic
+2 : Analyzing business patterns and seasonality
+    -- Analyzing business seasonality
+    -- Analyzing business patterns
+3 : Product analysis :
+    -- Product-level sales analysis
+    -- Analyzing product launches
+    -- Product-level website pathing
+    -- Building product level conversion funnels
+    -- Cross-sell analysis
+    -- Product portfolio expansion
+    -- Analyzing product refund rates
+3 : User analysis :
+    -- Identifying repeat visitors
+    -- Analyzing time to repeat
+    -- Analyzing repeat channel behavior
+    -- Analyzing new and repeat conversion rates
+4 : Final project :
+    -- Session and order volume trended by quarter
+    -- Quarterly data for session-to-order conversion rate, revenue per order and revenue per session
+    -- Quarterly view of orders from specific channels
+    -- Overall session-to-order conversion rates for the above channels
+    -- Monthly trending for revenue and margin by product, along with total sales and revenue
+    -- Monthly sessions to product page conversion rates along with conversion of products page to order page
+    -- How well each product cross-sells from one another since 5th December 2014
+    -- Recommendations and opportunities for company to grow
+
+      	
+
+
