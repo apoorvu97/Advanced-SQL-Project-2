@@ -30,5 +30,3 @@ MySQL for Ecommerce & Web Analytics
     -- Monthly sessions to product page conversion rates along with conversion of products page to order page
     -- How well each product cross-sells from one another since 5th December 2014
     -- Recommendations and opportunities for company to grow
-
-# Advanced-SQL-Project-2
